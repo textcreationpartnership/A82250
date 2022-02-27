@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration or representation of the actions, intentions, and resolutions of divers of the inhabitants of the county of Hartford, which alwaies have, and still intend to stand to their first declared Parliamentary principles, in order to common right and freedom. In answer to a book, entituled, A declaration or vindication of ths [sic] Parliament of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82250</idno>
+            <idno type="STC">Wing D784</idno>
+            <idno type="STC">Thomason E592_2</idno>
+            <idno type="STC">ESTC R210990</idno>
+            <idno type="EEBO-CITATION">99869733</idno>
+            <idno type="PROQUEST">99869733</idno>
+            <idno type="VID">165525</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165525)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E592[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration or representation of the actions, intentions, and resolutions of divers of the inhabitants of the county of Hartford, which alwaies have, and still intend to stand to their first declared Parliamentary principles, in order to common right and freedom. In answer to a book, entituled, A declaration or vindication of ths [sic] Parliament of England.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, MDCXLIX. [1649, i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "a leveller", "Feb: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Declaration of vindication of the Parliament of England.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165525:1" rendition="simple:additions"/>
+            <p>A DECLARATION OR REPRESENTATION Of the Actions, Intentions, and Reſolutions of divers of the Inhabitants of the County of <hi>Hartford,</hi> which alwaies have, and ſtill intend to ſtand to their firſt declared Parliamentary Principles, in Order to <hi>Common Right</hi> and <hi>Freedom.</hi>
+            </p>
+            <p>In Anſwer to a Book, entituled, <hi>A</hi> DECLARATION <hi>Or</hi> VINDICATION <hi>of ths</hi> PARLIAMENT <hi>of</hi> ENGLAND.</p>
+            <q>
+               <bibl>PROVERBS XXXI.</bibl>
+               <p>The Wiſe-man ſaith of a Vertuous Woman, <hi>Her Works praiſe Her in the Gates.</hi>
+               </p>
+               <p>So will all the good deeds of good men, without guilded Ex<g ref="char:EOLhyphen"/>preſſions.</p>
+            </q>
+            <p>LONDON, Printed in the Yeer, MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:165525:2"/>
+            <head>A DECLARATION Of the Actions, intentions, and reſolutions of divers of the Inhabitants of the County of <hi>Hartford.</hi> &amp;c.</head>
+            <p>AT how deer a rate we have valued our liberties, both in mat<g ref="char:EOLhyphen"/>ters of Conſcience and common Right, let our actions ſpeak, and the world judge: as firſt, for matter of Conſcience, when the Biſhops and their tyranizing Clergy and Courts did vex and torment all honeſt Conſcientious p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ople in our Nation, who did ever oppoſe them more than we did? and who did ever appear before us, or with a greater number in perſon, with a Petition to the Parlia<g ref="char:EOLhyphen"/>ment, for the ſtocking of them up root and branch? and what pains we took, and what charge we were at, with the ſeeking f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r juſtice to be done upon ſcandalous Prieſts, let the Clarks books of the Commit<g ref="char:EOLhyphen"/>tee for Plundered Miniſters ſpeak; and our many weary journeys to London, with many men and women: And yet if a Prieſts actions were never ſo foul, as his friends were in the Committee, ſo was his ſentence; as ſome of us can by deer bought experience witneſſe.</p>
+            <p>And although there is much ſaid to be done, in the reforming of Re<g ref="char:EOLhyphen"/>ligion, yet we ſee little fruit of it, for in ſome Pariſhes there is Com<g ref="char:EOLhyphen"/>mon Prayers ſtill read to this day, and as wretched ſcandalous Prieſts as ever: yea, and thoſe Prieſts who coſt ſome Pariſhes twenty or thirty pounds to caſt out<note n="*" place="margin">A glori<g ref="char:EOLhyphen"/>ous Refor<g ref="char:EOLhyphen"/>mation.</note> (were preſently admitted to another) yea, and one Pariſh that had ſpent above forty pounds to throw out one baſe fellow, were by an <hi>Aſſembly</hi>-man forc't to have one that had been thrown out three ſeveral times before: And thoſe that have not had ſuch as are ſo ſcandalous in their lives, yet at the beſt are but ridged Presbyters, who are ſo proud and covetous that thoſe who could not in Conſcience give them the benefit of their labors, under the name of Tythe, by the power of a cruel Ordi<g ref="char:EOLhyphen"/>nance, have made their little finger heavier than their Predeceſſors loynes. And in the midſt of this<note n="*" place="margin">See the Zeale of theſe reli<g ref="char:EOLhyphen"/>gious men.</note> Reforma<g ref="char:EOLhyphen"/>tion, aboundance of Pariſhes that have not great livings are wholy deſtitute of any Prieſt at all, and we were never
+<pb n="2" facs="tcp:165525:2"/>yet ſo far beholden to any ſort of men in power, as to have an Order made for impropriators to allow ſome means to help to maintain a Prieſt in any Pariſh where there was none, although the Tyth was worth five hundred pound <hi>per annum.</hi> No nor ſo much as an Order for<note n="*" place="margin">Although this had been no charge nor loſſe to themſelves.</note> giving Liberty to thoſe whom God had taught to know himſelf, and made willing to teach others freely, what they knew and beleeved, concerning God, with<g ref="char:EOLhyphen"/>out Tyth, or other reward. Yea, and all penal Statutes ſuffered to ſtand ſtill in force, whereby many peaceable people ſuffer to this day. And if God had not of late days made <hi>Jury-men</hi> more wiſe and honeſt than ſome other men, they were like to ſuffer as deep as ever.</p>
+            <p>And thus much for our Reformation in that which is called Religi<g ref="char:EOLhyphen"/>on. But the Apoſtle <hi>Iames</hi> ſaith, <hi>Pure Religion and undefiled, is to viſit the fatherleſſe and widdows, and to releeve the oppreſſed,</hi> and ſuch like acts as theſe. And Chriſt himſelf ſaid, <hi>His Kingdom was not of this world.</hi> He hath declared himſelf to be the King of Saints, and all ſuch whom he hath taught, know his Voice, and follow him, and dare not follow any other; for they know he hath preſcribed them a per<g ref="char:EOLhyphen"/>fect rule to walk by, and hath been very faithful in all things in his Houſe, more than <hi>Moſes</hi> was, who left nothing undone in matter of Worſhip, for any other.</p>
+            <p>And therefore we conclude, That no civil power in the world, can meddle with Religion, but they muſt intrench upon the Prerogative Royal of Jeſus Chriſt. And for a more full diſcourſe of this point, we referr you to a Sermon of Mr <hi>Dell</hi>'s, entituled, <hi>Right Reformation.</hi> Yet we deſire ſuch a courſe might be taken, as might cheriſh Vertue, and puniſh Vice, more ſtrictly than it hath ever yet been.</p>
+            <p>And for our Common Rights and Liberties, we ſhall give a brief account of our actions, and let the world judge at what a rate we valu<g ref="char:EOLhyphen"/>ed them: for when by an over-ruling Providence, the grand Tyrant <hi>Charles Stuart,</hi> was conſtrained to call a Parliament, although him<g ref="char:EOLhyphen"/>ſelf and his crew by their Power, intended thereby to ſet up iniquity by a Law; yet then we ſtood it out, in our Election, againſt <hi>Charles Stuart</hi>'s intereſt, as much as any one County whatſoever, although much abuſed and threatred.</p>
+            <p>And when the Parliament came to conteſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i h <hi>Charles Stuart</hi> about the Nations Rights and Freedom, from under his Tyranny, who
+<pb n="3" facs="tcp:165525:3"/>ever ſtuck more cloſe to them then we did, both with purſe and per<g ref="char:EOLhyphen"/>ſon; witneſs our free loan upon the propoſitions, ſome of us borrowing moneyes at eight <hi>per cent.</hi> to lend upon that account, thinking no<g ref="char:EOLhyphen"/>thing too dear to recover our freedom from Tyrannie and Bondage; many other that were not worth twenty pounds in the world<note n="*" place="margin">Who now would be glad of five to buy them bread.</note>, did lend ten pounds; and others, if they had no money themſelves, if their Wives had but a Ring or a ſilver ſpoon, preſently carryed it to <hi>Guild-hall</hi> for pub<g ref="char:EOLhyphen"/>lique uſe, and had no other end in it, but the recovery of long loſt Freedom; and no other ground for it but a Declaration of Parliament; in which we found <hi>Salus populi Suprema Lex;</hi> upon which we reſolved not to be wanting for the true eſtabliſh<g ref="char:EOLhyphen"/>ing of that Law: Yea, and when it came to the conteſt with the ſword, who ever appeared in the Militia, and who ever oppoſed the Commiſ<g ref="char:EOLhyphen"/>ſion of Array when it was in our County, more ſtoutly and reſolutely then we did; although our great men did threaten us with Bullets in our foreheads, and hanging by the neck, and burning our houſes, &amp;c. And many poor honeſt hearted men that had not 30 ſhils. in the world, did ſpare 20 of it to buy a Muſket in this conteſt; yea, and found all Am<g ref="char:EOLhyphen"/>munition, and hired experienced men at their own charges, to exerciſe them in the uſe of Armes, for the end and cauſe aforeſaid: And yet this did not reſt here, but we ſent out a Regiment of men at our own coſt and charges, and maintained them abroad for many months together: And after this, we did raiſe three Regiments more, and maintained them at our own charge, and were upon motion very often, ſomtimes a month or five weeks, ſomtimes more; and all at our own charge, without any allowance from the State, or one penny abatement in our proportion of Taxes; although no County in the Land of our quality were at the like charge: Yea and when by neglect of doing juſtice up<g ref="char:EOLhyphen"/>on <hi>Charles Stuart</hi> and his crew, <hi>Kent</hi> and <hi>Eſſex</hi> did joyn with the old Cavaliers and raiſed a new War, we did not onely keep our own County at quiet, but were as ready to help others, and did never for<g ref="char:EOLhyphen"/>ſake our firſt Principles, <hi>viz:</hi> common Rights and Freedom: And whereas there is great complaining of parties carrying on the deſign of <hi>Charles Stuart,</hi> under the name of Levellers, we are ſure this cannot be ſpoken by us who never appeared directly or indirectly in his deſign. But we declare to the world, that we would be glad to injoy what theſe mens declared Principles hold forth: For their intentions, if they
+<pb n="4" facs="tcp:165525:3"/>had any baſe end, we cannot ſee their hearts, but are to judge of their intentions by what is declared in words; for we had nothing but De<g ref="char:EOLhyphen"/>clarations to cauſe us to do all that we have done. And whereas there is much ſaid to be done in order to the ends declared for, truly we could be glad we were truly ſenſible of it. But in anſwer to what is ſaid to be done, <hi>viz:</hi> in taking away his Commiſſions, Star-chamber-Courts, Ship-money, and Monopolies, projects and purveyancies, and the Court of Wards<note n="*" place="margin">To this we anſwer,</note>, they were all taken away except the Court of Wards at the begining of this Parliament, before any conteſt with <hi>Charles Stuart</hi> with the ſword, and uſed as an Argument to induce us to aſſiſt the Parliament againſt <hi>Charles Stuart:</hi> So that it is clear, this is juſt nothing in anſwer to our expectatations, grounded upon the Parliaments Declarations, which were made before theſe things were done: And truly this is but a ſmall requital for our ſervice and expence, this being all paid for before by way of Subſedy. And for the Court of Wards, we acknowledge it hath bin taken away ſince: But we deſire to know if this becomes thoſe, who ſay they are, and deſire to prove themſelves good Patriots and good Chriſtians in the diſcharging their truſt, to free themſelves from all oppreſſions that lay upon them, and the reſt of the great men of the Nation; although they know the greateſt part of them have bin their profeſſed and deadly Enemies: And to keep all thoſe, or the great<g ref="char:EOLhyphen"/>eſt part of thoſe that have adhered to the firſt declared Parliamentory principles, in ſlavery to themſelves, and the gaeateſt Cavaliers of the Land, by baſe tenures, fines, hariots, fealty, homage, &amp;c. and by tithes, and the Lawes in the Norman Tongue; for it is notoriouſly known, that thoſe that hid adhere to <hi>Charles Stuart,</hi> were ſuch whoſe intereſt was in the peoples oppreſſions: And that the moſt of thoſe that did ad<g ref="char:EOLhyphen"/>here to the Parliament, were not great men, but ſuch as were oppreſſed by great men, either in Coppy-holds or Tithes; or by the ſubtilty of the Lawyers, who Caterpillar-like, eat and devour all they poſſibly can, not regarding equity or juſtice, but how to get money right or wrong. Now although there is much talking of common freedom, in that book, yet how far this is off, or ſhort of common freedom, let the world judge: This ſingle Act of taking away the Court of Wards, be<g ref="char:EOLhyphen"/>ing all that can be ſaid in order to common freedom, and this reacheth onely the Actors, and the reſt of the great men of the Nation; of which he greateſt part are perfect Cavaliers, who make the utmoſt uſe of
+<pb n="5" facs="tcp:165525:4"/>their power to ruine and deſtroy all thoſe who oppoſe their Tyranny, by impoſing great fines upon them, in their Eſtates by alienation or de<g ref="char:EOLhyphen"/>cent, even to the ruining of ſome mens Eſtates.</p>
+            <p>And others have found the like from Impropriators, in the matters of Tythes, who have by Ordinance of Parliament deſtroyed ſome of the Parliaments faithful friends.</p>
+            <p>We are alſo left in the like condition for many other oppreſſions, as the Norman Laws in an unknown Tongue, and the cruel practiſe of the ſame, by Vipers: as alſo the towle of Markets, that none may ſell their corn, which is their own, but firſt there muſt come Publicans and take away what they pleaſe, to feaſt ſome who never take any pains for it.</p>
+            <p>By what hath been ſaid, let the World judge vvhether this tend to Common Freedom, or to ſelf intereſt; or whether it is not an act of grace to the great Tyrants of the Land, rather then Common Free<g ref="char:EOLhyphen"/>dom; and whether it is not an act of cruelty to the greateſt part of the People of the Nation, who have ſpent ſo much blood and treaſure for the ends before mentioned. And vvhereas there is much ſaid about ſome mens going into Egypt, under <hi>Pharaohs</hi> oppreſſions, We declare to the whole World, that vve are reſolved never to look back to <hi>Pha<g ref="char:EOLhyphen"/>raohs</hi> bondage again: vve confeſs we are brought into the Wilderneſs, and there we meet vvith hardſhip and difficulty, but vve are reſolved for the Land of Promiſe, in the power of the Lord of Hoſts, and the God of all our mercies vve have already received: and he vvho brought us from <hi>Pharaohs</hi> bondage and Tyranny, vve beleeve vvill carry us into the Promiſed Land, vvhere none ſhall hurt or oppreſſe or make a prey of us in any kind: and although many (like <hi>Iſrael</hi> of old) vvhen <hi>Canaan</hi> vvas to be poſſeſſed, gave an ill report of it, and ſaid, <hi>There were Gyants, and the Walls high;</hi> ſo novv, many ſay in the vvay to Common Freedom, There is the Gyants of Self-intereſts, Lords of Mannors, and Impropriators, and Lavvyers novv in povver, vvho vvill never y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eld to let the People go free: in this vve ſhall like <hi>Ioſhuah</hi> and <hi>Caleb</hi> reſt upon, That God, vvho brought us thus neer to the Promiſed Land, to bring us into the poſſeſſion of our deer bought Liberties: and though vve are novv in ſtraits and troubles in the Wilderneſſe, yet if e<g ref="char:EOLhyphen"/>ver God ſhall be pleaſed to raiſe us up a <hi>Ioſhuah</hi> to go before us; vve mean a Nevv and equal Repreſentative, choſen and elected upon the grounds of equity and reaſon, vve ſhall vvith all cheerful readineſſe go
+<pb n="6" facs="tcp:165525:4"/>along vvith them, for the attaining all juſt ends deſired and laboured for by all good men. And if any ſhall ſay, There is a Parliament already fir<g ref="char:EOLhyphen"/>ing. To this vve anſwer, in our underſtandings there can be none, for we are ſure if there vvere, there ought to be ſome elected by us, to treat for us in things concerning our Freedom and Liberty, vvhich vve ſenſibly knovv there is not, and therefore of neceſſity vve muſt appeal to a Nevv.</p>
+            <p>It is alſo declared in that book, that ſome complain of, or aggravate the charge and burden of the Nation, and that there can be no accounts given of their money; and truly we ſay, none need to tell us of our burdens or oppreſſions that are laid upon us, for they are ſo heavie, that we feel them ſufficiently; and for Accounts, we believe that thoſe who ſhare the Nations Treaſure among themſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lves by hundreds and thou<g ref="char:EOLhyphen"/>ſands, never intend to give account for it, unleſs they are forced to it. It is alſo ſaid, there are ſpecial Commiſſions given out to Try ſome men as Diſturbers of the Common-Wealth; At which we ſtand amazed, that thoſe who call themſelves good Patriots, and good Chriſtians, ſhould (at this time) ſet up that which at the begining of the Parliament was ſo much cried down for cruelty, when it was done by <hi>Charles Stuart;</hi> but truly we declare to thoſe men who ſit to do ſuch Acts, that they would have got as much credit and love, if they had ſpent that time to have done ſome good Action for the Nation, which they ſpent to deſtroy honeſt men that have ſtood alwaies for Common good. And taking notice alſo of a thing called <hi>an Act for taking the Engagement;</hi> We declare our reſolution at once for ſtanding againſt King, or kingly pow<g ref="char:EOLhyphen"/>er, we are fully reſolved upon the grounds of reaſon, that Government being tyranical, vexatious, and very chargeable; and for the Houſe of Lords, we are the like, for when we had a Parliament (although the Houſe of Commons made but few good motions for us, yet) we alwaies found the Lords obſtructing and hindring, and therefore we ſhall to the utmoſt, endeavor againſt them; but to engage to be true to the Com<g ref="char:EOLhyphen"/>mon-wealth as it is now eſtabliſhed, we know not what that means; for Government we ſee none, but the old tyranical Norman Govern<g ref="char:EOLhyphen"/>ment, or a Government by the power of the Sword, which if it conti<g ref="char:EOLhyphen"/>nue, is very tedious to us; but put the caſe there were a juſt Govern<g ref="char:EOLhyphen"/>ment ſetled, which we ſee none, yet in reaſon vve could not engage to ſtand to it, becauſe vve have no men impowered by us that have bad any hand in making or eſtabliſhing it, if it vvere, for in ſo doing, we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up our vvhole Right of Election, by conſenting and ſeting out <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:165525:5"/>ſuch a Government as vvas made vvhen vve had no part or ſhare in the making of it; and by this our reſolution is declared concerning it. We alſo declare to the vvhole World, that if ever vve recover our Right of a New Election of a New Repreſentative, for vvhich vve engaged againſt the chief Tyrant of the Norman Race; We alſo reſolve againſt all his Creatures, and never intend to chuſe one of them more for a Parliament man vvhile vve live; vve mean lords of Mannors, Impropriators, and Lawyers, vvhoſe Intereſt is in our oppreſſion, and at this day keep us in bondage like Egyptian Task-maſters, having by policy and our money, got the Soldiers to decline their promiſes to us, and ſupport them. We alſo reſolve never to petition theſe men more vvho now rule over us, nor never to recruit them if they would have us; By this it ſhall be known to be a general conſent of thoſe expreſt in the Title.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
